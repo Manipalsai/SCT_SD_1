@@ -42,5 +42,3 @@ The goal is to provide an accurate and user-friendly temperature converter using
 3️⃣ Open your terminal in this folder and run:
 ```bash
 python Task_1.py
-
-*Task completed as part of SkillCraft Technology's Data Science Internship Program.*
