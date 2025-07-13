@@ -1,4 +1,4 @@
-#  SCT_SD_Task1
+#  SCT_SD_Task1 – Temperature Converter
 
 This repository contains **Task 1** for my **Software Development Internship** at **SkillCraft Technology**.
 
