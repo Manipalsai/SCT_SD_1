@@ -1,4 +1,4 @@
-#  SCT_SD_Task1 – Temperature Converter (SkillCraft Software Development Internship)
+#  SCT_SD_Task1
 
 This repository contains **Task 1** for my **Software Development Internship** at **SkillCraft Technology**.
 
@@ -30,7 +30,7 @@ The goal is to provide an accurate and user-friendly temperature converter using
 
 ##  Requirements
 
-✔ This program uses only the built-in `tkinter` library, so you do **not** need to install anything extra if you have Python installed.
+ This program uses only the built-in `tkinter` library, so you do **not** need to install anything extra if you have Python installed.
 
 ---
 
@@ -42,3 +42,5 @@ The goal is to provide an accurate and user-friendly temperature converter using
 3️⃣ Open your terminal in this folder and run:
 ```bash
 python Task_1.py
+
+*Task completed as part of SkillCraft Technology's Data Science Internship Program.*
